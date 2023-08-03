@@ -10,7 +10,7 @@
   "author": "Man Yiu",
   "license": "ISC",
   "dependencies": {
-    "node-jose": "^2.1.1",
+    "node-jose": "^2.2.0",
     "pem": "^1.14.6"
   }
 }
